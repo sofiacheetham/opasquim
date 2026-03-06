@@ -7,7 +7,7 @@ description: "An oppositional tabloid to the military regime in Brazil"
 url: "https://sofiacheetham.github.io"
 baseurl: "/opasquim"
 author: "Sofia Penna Cheetham"
-telar_theme: "paisajes" # Options: paisajes, neogranadina, santa-barbara, austin, trama, or custom
+telar_theme: "santa-barbara" # Options: paisajes, neogranadina, santa-barbara, austin, trama, or custom
 logo: ""
 telar_language: "en"
 
